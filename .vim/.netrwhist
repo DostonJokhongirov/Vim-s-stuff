@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/doston/MLengineering/pythonClasses'
+let g:netrw_dirhist_5='/home/doston/lessonsOfWebDevelopment/present-ml'
+let g:netrw_dirhist_4='/home/doston/lessonsOfWebDevelopment/present-frontend'
+let g:netrw_dirhist_3='/home/doston/lessonsOfWebDevelopment/stunning-website/app'
+let g:netrw_dirhist_2='/home/doston/lessonsOfWebDevelopment/stunning-website'
+let g:netrw_dirhist_1='/home/doston/lessonsOfWebDevelopment/stunning-website/public'
+let g:netrw_dirhist_0='/home/doston/lessonsOfWebDevelopment/stunning-website'
+let g:netrw_dirhist_9='/home/doston/lessonsOfWebDevelopment/stunning-website/app'
+let g:netrw_dirhist_8='/home/doston/lessonsOfWebDevelopment/stunning-website/app/d'
+let g:netrw_dirhist_7='/home/doston/lessonsOfWebDevelopment/stunning-website/app'
